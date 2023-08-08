@@ -1,0 +1,1002 @@
+[
+    {
+        "date": "07 August 2023",
+        "vacancy": "Разработчик Python (junior)",
+        "company": "ANABAR",
+        "salary_low": null,
+        "salary_top": 80000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84630964",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Junior Python-разработчик",
+        "company": "Blue underlined link",
+        "salary_low": 110000,
+        "salary_top": 140000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84558768",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Python разработчик junior",
+        "company": "amoCRM",
+        "salary_low": 30000,
+        "salary_top": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83813635",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Младший разработчик Python (Junior Python Developer)",
+        "company": "Учкнига",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84367719",
+        "site": "headhunter"
+    },
+    {
+        "date": "01 August 2023",
+        "vacancy": "Разработчик Python (Junior)",
+        "company": "КСЕНЬЕВСКИЙ ПРИИСК",
+        "salary_low": null,
+        "salary_top": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84347100",
+        "site": "headhunter"
+    },
+    {
+        "date": "30 July 2023",
+        "vacancy": "Junior/Middle Backend Developer (Python)",
+        "company": "Перспективный стартап",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/82858718",
+        "site": "headhunter"
+    },
+    {
+        "date": "06 August 2023",
+        "vacancy": "Стажер-разработчик Python (Удаленно) (Рейтинг на CodeForces - Важно!)",
+        "company": "МДО",
+        "salary_low": 60000,
+        "salary_top": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/84302495",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Backend Middle Developer / Python разработчик",
+        "company": "hotellab.io",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84075135",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python Developer, удаленно",
+        "company": "Konica Minolta",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Проектная работа",
+        "url": "https://hh.ru/vacancy/84657387",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Python developer",
+        "company": "CoMagic.dev",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84509350",
+        "site": "headhunter"
+    },
+    {
+        "date": "20 July 2023",
+        "vacancy": "Программист Python",
+        "company": "MedMundus",
+        "salary_low": 70000,
+        "salary_top": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/83761018",
+        "site": "headhunter"
+    },
+    {
+        "date": "19 July 2023",
+        "vacancy": "Python Backend Developer",
+        "company": "Twinby",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83716383",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Python developer",
+        "company": "Цифровые привычки",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84501730",
+        "site": "headhunter"
+    },
+    {
+        "date": "27 July 2023",
+        "vacancy": "Python-разработчик",
+        "company": "РАСЧЕТНЫЕ РЕШЕНИЯ",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84115203",
+        "site": "headhunter"
+    },
+    {
+        "date": "18 July 2023",
+        "vacancy": "Backend-разработчик Python",
+        "company": "Spider Group",
+        "salary_low": null,
+        "salary_top": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83644516",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Junior/Middle Python developer",
+        "company": "Райт Скан",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84387877",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "idaproject",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84418444",
+        "site": "headhunter"
+    },
+    {
+        "date": "11 July 2023",
+        "vacancy": "Стажер в отдел R&D (Python)",
+        "company": "Мэврика",
+        "salary_low": 30000,
+        "salary_top": 60000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/83301229",
+        "site": "headhunter"
+    },
+    {
+        "date": "24 July 2023",
+        "vacancy": "Python разработчик (Django)",
+        "company": "Hammer Systems",
+        "salary_low": 50000,
+        "salary_top": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83966648",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Middle разработчик Python / Django",
+        "company": "РА Дельта",
+        "salary_low": 60000,
+        "salary_top": 140000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84432408",
+        "site": "headhunter"
+    },
+    {
+        "date": "18 July 2023",
+        "vacancy": "Junior Backend developer (Python)",
+        "company": "Effective Mobile",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83618124",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Программист Python",
+        "company": "Инжиниринговый Центр Железнодорожного Транспорта",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84062980",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Разработчик Odoo (Python)",
+        "company": "МосТрансАренда",
+        "salary_low": 150000,
+        "salary_top": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84631676",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python Engineer / Python разработчик",
+        "company": "AliExpress Россия",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84693635",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Аналитик данных на маркетплейсах (python)",
+        "company": "JCat.ru",
+        "salary_low": 90000,
+        "salary_top": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84657471",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Стажер Python developer (СКИИС)",
+        "company": "МТС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/84062871",
+        "site": "headhunter"
+    },
+    {
+        "date": "28 July 2023",
+        "vacancy": "Data Scientist (Python)",
+        "company": "РДП.РУ",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84221557",
+        "site": "headhunter"
+    },
+    {
+        "date": "06 August 2023",
+        "vacancy": "Python Developer в международный проект о здоровье",
+        "company": "AI Hub Group",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84497404",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Python разработчик (Django)",
+        "company": "BBoom (ИП Пашкевич Алексей Владимирович)",
+        "salary_low": 58000,
+        "salary_top": 95000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84082740",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 July 2023",
+        "vacancy": "Программист Python",
+        "company": "Мухаметов Роберт",
+        "salary_low": 25000,
+        "salary_top": 50000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83221026",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Московский Кредитный Банк",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84315858",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Программист Python/С++",
+        "company": "НПК РоТеК",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84448742",
+        "site": "headhunter"
+    },
+    {
+        "date": "25 July 2023",
+        "vacancy": "Python-разработчик",
+        "company": "Р-Вижн",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84018142",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Аналитик (PYTHON SQL)",
+        "company": "Центральный банк Российской Федерации",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84448262",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Middle Python разработчик [DataCrawler]",
+        "company": "МТС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84485843",
+        "site": "headhunter"
+    },
+    {
+        "date": "13 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Корпорация ЭЛАР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83362882",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Лотереи Москвы",
+        "salary_low": 200000,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84061130",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Иннотех, Группа компаний",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84496170",
+        "site": "headhunter"
+    },
+    {
+        "date": "27 July 2023",
+        "vacancy": "Python Developer",
+        "company": "Lofty.",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84171168",
+        "site": "headhunter"
+    },
+    {
+        "date": "01 August 2023",
+        "vacancy": "Программист-разработчик на Python",
+        "company": "ФБУН НИИ СБМ Роспотребнадзора",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84363392",
+        "site": "headhunter"
+    },
+    {
+        "date": "15 July 2023",
+        "vacancy": "Программист Python / Python Developer",
+        "company": "Чипизубов Максим Сергеевич",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/83466756",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "DevTools Python Backend Developer",
+        "company": "YADRO",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84646229",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Python разработчик",
+        "company": "РДП.РУ",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84047678",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Разработчик Python",
+        "company": "ОТП Банк, АО (OTP bank)",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84434346",
+        "site": "headhunter"
+    },
+    {
+        "date": "21 July 2023",
+        "vacancy": "Backend разработчик на Python / web программист в AI платформу, удалённо",
+        "company": "VoxWeb Interactive",
+        "salary_low": null,
+        "salary_top": 70000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83819906",
+        "site": "headhunter"
+    },
+    {
+        "date": "24 July 2023",
+        "vacancy": "Python developer",
+        "company": "INFOWATCH",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83964990",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python developer",
+        "company": "Secreate",
+        "salary_low": 180000,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84690325",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Продакт разработчик (удаленно) Java, Python",
+        "company": "Гончаров Константин",
+        "salary_low": 1500,
+        "salary_top": 4000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84437923",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "Samokat.tech",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84620437",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Python Developer",
+        "company": "Серяков Виктор Юрьевич",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/84485011",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Junior Python-разработчик",
+        "company": "СОГАЗ",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84024689",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Python developer",
+        "company": "Аренадата Софтвер",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83453900",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Бэкенд-разработчик (python)",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84444597",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Python Backend Developer (Middle/Remote)",
+        "company": "JetLend",
+        "salary_low": null,
+        "salary_top": 170000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84040721",
+        "site": "headhunter"
+    },
+    {
+        "date": "24 July 2023",
+        "vacancy": "Strong junior / Middle Python разработчик",
+        "company": "НПФ ФИТО",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83953135",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Разработчик Python middle",
+        "company": "Аврора Инфинити",
+        "salary_low": 120000,
+        "salary_top": 180000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83460735",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Python Developer",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84242849",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Back-end разработчик Python",
+        "company": "Топ-Тех Ай Ти Девелопмент",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84439024",
+        "site": "headhunter"
+    },
+    {
+        "date": "17 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/80879635",
+        "site": "headhunter"
+    },
+    {
+        "date": "01 August 2023",
+        "vacancy": "Программист Python",
+        "company": "Всероссийский Банк Развития Регионов",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/82983936",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Разработчик (Python, Middle)",
+        "company": "Фитбейс",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84248442",
+        "site": "headhunter"
+    },
+    {
+        "date": "11 July 2023",
+        "vacancy": "Middle Python developer",
+        "company": "ДЖАСТ ВОРК",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83300859",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "ГИС-разработчик (Python)",
+        "company": "Российские космические системы",
+        "salary_low": 150000,
+        "salary_top": 170000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84260215",
+        "site": "headhunter"
+    },
+    {
+        "date": "12 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Инконсалт",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83330313",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Python developer (AI)",
+        "company": "Hunt For You",
+        "salary_low": 5500,
+        "salary_top": 7500,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84318641",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Backend Python Developer (Django)",
+        "company": "Протектор",
+        "salary_low": 160000,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83458412",
+        "site": "headhunter"
+    },
+    {
+        "date": "27 July 2023",
+        "vacancy": "Middle Python Developer",
+        "company": "Талала",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84135505",
+        "site": "headhunter"
+    },
+    {
+        "date": "24 July 2023",
+        "vacancy": "Разработчик Python(RuPost)",
+        "company": "Группа компаний Астра",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/43558725",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84403876",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Северсталь",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/82159480",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Middle+ Python-разработчик",
+        "company": "Blue underlined link",
+        "salary_low": 230000,
+        "salary_top": 270000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84558094",
+        "site": "headhunter"
+    },
+    {
+        "date": "18 July 2023",
+        "vacancy": "Программист Python",
+        "company": "Пермякова Марина Сергеевна ​​",
+        "salary_low": 400000,
+        "salary_top": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/83589408",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Middle Python Developer",
+        "company": "ЭС-АЙ Безопасность",
+        "salary_low": 200000,
+        "salary_top": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84671395",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Python Backend Developer",
+        "company": "WebBee",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83434849",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Python Developer",
+        "company": "Cybernetic Technology",
+        "salary_low": 150000,
+        "salary_top": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84473471",
+        "site": "headhunter"
+    },
+    {
+        "date": "20 July 2023",
+        "vacancy": "Middle Python-разработчик",
+        "company": "ANABAR",
+        "salary_low": null,
+        "salary_top": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83778208",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python developer",
+        "company": "Группа НЛМК",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84672397",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "SolidLab",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83226584",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Python developer [Test Automation Platform]",
+        "company": "МТС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/80434796",
+        "site": "headhunter"
+    },
+    {
+        "date": "21 July 2023",
+        "vacancy": "Python middle",
+        "company": "Опендэв",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83800034",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Python Developer (Django/DRF/Grafene)",
+        "company": "Urbamatica",
+        "salary_low": null,
+        "salary_top": 5000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/84064964",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "getmatch",
+        "salary_low": null,
+        "salary_top": 450000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83921162",
+        "site": "headhunter"
+    },
+    {
+        "date": "17 July 2023",
+        "vacancy": "Python Developer",
+        "company": "Пермякова Анна Александровна",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83541113",
+        "site": "headhunter"
+    },
+    {
+        "date": "27 July 2023",
+        "vacancy": "Младший разработчик Python, Маркетплейс, Стенды метрик",
+        "company": "Ozon",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84145507",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Backend разработчик (senior) Python",
+        "company": "ВИАВЕЙ",
+        "salary_low": null,
+        "salary_top": 550000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84079746",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Python - разработчик (Django)",
+        "company": "Дивергент",
+        "salary_low": null,
+        "salary_top": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84677591",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Python Developer",
+        "company": "Wanted",
+        "salary_low": null,
+        "salary_top": 2300,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83439814",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Remote Python Developer",
+        "company": "Суровый байт",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84264476",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 July 2023",
+        "vacancy": "Программист Python (Middle)",
+        "company": "СДЭК",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83225173",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 July 2023",
+        "vacancy": "Разработчик Python (PostgreSQL)",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83226812",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Программист Python",
+        "company": "ФГУП ГлавНИВЦ Управления делами Президента Российской Федерации",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83967739",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Middle+ Python-разработчик (FastAPI)",
+        "company": "Компэл",
+        "salary_low": 180000,
+        "salary_top": 240000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84417385",
+        "site": "headhunter"
+    },
+    {
+        "date": "01 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/81723177",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Junior Python ML инженер – разработчик",
+        "company": "М-Холдинг",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83429643",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "Тинькофф",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84480959",
+        "site": "headhunter"
+    },
+    {
+        "date": "25 July 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/80122527",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Middle developer Python (Django)",
+        "company": "Группа Самолет",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84641807",
+        "site": "headhunter"
+    },
+    {
+        "date": "17 July 2023",
+        "vacancy": "Python Developer (проект Маркетинг)",
+        "company": "СБЕРКОРУС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83548831",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Разработчик Python/Developer Python",
+        "company": "ГИРУС",
+        "salary_low": 250000,
+        "salary_top": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83461035",
+        "site": "headhunter"
+    },
+    {
+        "date": "05 August 2023",
+        "vacancy": "Python Developer (DS команда)",
+        "company": "Домклик",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83929013",
+        "site": "headhunter"
+    }
+]

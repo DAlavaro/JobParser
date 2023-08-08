@@ -13,6 +13,6 @@ class AbstractApi(ABC):
     def get_vacancies(self, page, keyword):
         pass
 
-    @abstractmethod
-    def list_vacancies(self, data):
-        pass
+    # @abstractmethod
+    # def list_vacancies(self, data):
+    #     pass

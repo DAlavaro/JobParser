@@ -1,6 +1,6 @@
 import requests
 
-from API.src.abstract_api import AbstractApi
+from src.API.abstract_api import AbstractApi
 
 
 class SuperJobApi(AbstractApi):
