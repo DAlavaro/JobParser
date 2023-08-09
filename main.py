@@ -1,25 +1,54 @@
-from settings import HH_VACANCIES
-from src.API.hh import HeadHunterApi
+from settings import VACANCIES
+from src.API.headhunter import HeadHunterApi
+from src.API.super_job import SuperJobApi
 from src.json_vacancy.json_vacancy import JsonVacancy
-from utils.utils import list_vacancies
+
 
 if __name__ == "__main__":
     # Очищаем файл с вакансиями
-    f = open(HH_VACANCIES, 'w+')
+    f = open(VACANCIES, 'w+')
     f.close()
 
     print("""Данная программа поможет найти нужную вакансию по вашим ключевым словам""")
-    keyword = input("Введите ключевые слова для поиска \n")
+    keyword = input("Введите ключевые слова для поиска подходящей вакансии\n")
 
+    # Создаем список вакансий hh
     hh_api = HeadHunterApi(keyword)
-    vacancies = hh_api.get_vacancies()
-    API_list = list_vacancies(vacancies)
-    JVacansy = JsonVacancy()
+    vacancies_hh = hh_api.get_vacancies()
+    list_hh = hh_api.list_vacancies(vacancies_hh)
+
+    # Создаем список вакансий sj
+    sj_api = SuperJobApi(keyword)
+    vacancies_sj = sj_api.get_vacancies()
+    list_sj = sj_api.list_vacancies(vacancies_sj)
+
+    # Создаем экземпляр класса для записи вакансий в файл
+    data = list_sj + list_hh
+    json_vacancy = JsonVacancy(VACANCIES, data)
 
     # Записываем данные о полученных вакансиях в файл
-    if vacancies:
-        json_info = JVacansy.get_vacancy(API_list)
+    if vacancies_sj:
+        json_vacancy.get_vacancy()
+        print(f"Отлично по вашему запросу найдено {json_vacancy.len_vacancy()} вакансий")
     else:
         print("По вашему запросу вакансий не найдено.")
 
-    JVacansy.print_vacancy()
+    key_filer = input("Сократите количество запросов указав минимальный размер желаемой заработной платы\n")
+    json_vacancy.filter_vacancies(key_filer)
+    print(f"Отлично по вашему запросу найдено {json_vacancy.len_vacancy()} вакансий")
+
+    print("По умолчанию вакансии отсортированы по дате от самой свежей")
+    key_sorted = input("""Вы можете выбрать сортировку 
+    1 - Обратная сортировка по дате 
+    2 - Сортировка по зарплате от максимального значения к минимальному
+    3 - Сортировка по зарплате от минимального значения к  максимальному
+    любой другой символ - Оставит сортировку без изменений\n""")
+    json_vacancy.sorted_vacancies(key_sorted)
+    for key in json_vacancy.data:
+        print(key['salary_top'])
+
+
+
+
+
+

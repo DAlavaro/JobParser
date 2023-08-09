@@ -4,7 +4,11 @@ from abc import ABC, abstractmethod
 class AbstractJsonVacancy(ABC):
 
     @abstractmethod
-    def get_vacancy(self, API_list):
+    def __init__(self, *args):
+        pass
+
+    @abstractmethod
+    def get_vacancy(self):
         pass
 
     def print_vacancy(self):
@@ -15,7 +19,7 @@ class AbstractJsonVacancy(ABC):
         pass
 
     @abstractmethod
-    def filter_vacancies(self):
+    def filter_vacancies(self, key):
         pass
 
     @abstractmethod
