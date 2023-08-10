@@ -1,7 +1,6 @@
-import json
 from datetime import datetime
 
-from API.src.abstract_api import AbstractApi
+from src.API.abstract_api import AbstractApi
 import requests
 
 
@@ -17,14 +16,15 @@ class HeadHunterApi(AbstractApi):
         params = {
             'text': f'NAME:{self.keyword}',
             'area': 1,
-            'page': 0,          # Номер стартовой странцы поиска
-            'per_page': 100       # Количество записей на страницу
+            'page': 0,          # Номер стартовой страницы поиска
+            'per_page': 100      # Количество записей на страницу
         }
         response = requests.get(self.base_url, params=params)
         data = response.json()
         return data.get('items', [])
 
-    def list_vacancies(self, vacancies):
+    @staticmethod
+    def list_vacancies(vacancies):
         """ Метод для получения стандартизированного списка вакансий"""
         result = []
         for vacancy in vacancies:
@@ -40,6 +40,4 @@ class HeadHunterApi(AbstractApi):
             }
             result.append(my_dict)
 
-        return json.dumps(result)
-
-
+        return result
