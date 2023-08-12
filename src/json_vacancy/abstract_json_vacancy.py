@@ -15,10 +15,6 @@ class AbstractJsonVacancy(ABC):
         pass
 
     @abstractmethod
-    def add_vacancies(self):
-        pass
-
-    @abstractmethod
     def filter_vacancies(self, key):
         pass
 
@@ -27,9 +23,12 @@ class AbstractJsonVacancy(ABC):
         pass
 
     @abstractmethod
-    def delete_vacancies(self):
+    def add_vacancies(self):
         pass
 
+    @abstractmethod
+    def delete_vacancies(self):
+        pass
 
 
 

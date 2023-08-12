@@ -1,12 +1,392 @@
 [
     {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
         "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://rnd.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163425.html",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kemerovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817797.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kerch.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817798.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kirov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817799.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kislovodsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817800.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kovrov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817801.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kolomna.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817802.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://komsomolsk-na-amure.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817803.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kopeysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817804.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://korolev.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817805.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://kostroma.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817806.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817807.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://murom.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817820.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://mytischi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817821.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://naberezhnye-chelny.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817822.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nazran.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817823.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nalchik.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817824.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nahodka.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817825.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nevinnomyssk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817826.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://neftekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817827.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nefteyugansk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817828.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nizhnevartovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817829.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nizhnekamsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817830.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nn.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817831.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nizhny-tagil.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817832.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novokuznetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817833.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novokuybyshevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817834.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novomoskovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817835.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novorossiysk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817836.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://nsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817837.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novocheboksarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817838.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novocherkassk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817839.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817840.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39817842.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://obninsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818261.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://odintsovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818262.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://oktyabrskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818263.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://omsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818264.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://orel.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818265.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист службы поддержки с техническими знаниями / Волкер",
+        "company": "Яндекс",
+        "salary_low": 15000,
+        "salary_top": null,
+        "employment": "Неполная дистанционная занятость",
+        "url": "https://orenburg.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39818266.html",
         "site": "SuperJob"
     },
     {
@@ -20,293 +400,13 @@
         "site": "SuperJob"
     },
     {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://rubtsovsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163426.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://rybinsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163427.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://ryazan.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163428.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://salavat.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163429.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://tyumen.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163456.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://ulan-ude.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163457.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://ulyanovsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163458.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://ussuriysk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163459.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://ufa.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163460.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://habarovsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163461.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://khanty-mansiisk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163462.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://khasavyurt.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163463.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://himki.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163464.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://cheboksary.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163465.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://chelyabinsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163466.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://cherepovets.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163467.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://cherkessk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163468.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://chita.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163469.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://shahty.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163470.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://schelkovo.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163471.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://elektrostal.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163472.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://elista.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163473.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://engels.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163474.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://yuzhno-sakhalinsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163475.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://yakutsk.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163476.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Ночной специалист службы технической поддержки (Яндекс Браузер)",
-        "company": "Яндекс",
-        "salary_low": 18000,
-        "salary_top": 45000,
-        "employment": "Неполный рабочий день",
-        "url": "https://yaroslavl.superjob.ru/vakansii/nochnoj-specialist-sluzhby-tehnicheskoj-podderzhki-46163477.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик данных (Управление Сквозные бизнес-компоненты)",
-        "company": "Банк ВТБ (ПАО)",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46781769.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Аналитик данных",
         "company": "Полюс",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полный рабочий день",
         "url": "https://krasnoyarsk.superjob.ru/vakansii/analitik-dannyh-46733195.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик данных / Data Analyst (Стрим Сквозные бизнес-компоненты)",
-        "company": "Банк ВТБ (ПАО)",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46785187.html",
         "site": "SuperJob"
     },
     {
@@ -320,7 +420,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Сетевой инженер",
         "company": "Кировтелеком",
         "salary_low": 70000,
@@ -330,7 +430,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Руководитель направления в Центр резервирования и планирования",
         "company": "Банк Открытие",
         "salary_low": null,
@@ -350,7 +450,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Преподаватель программирования, веб-разработки",
         "company": "Государственное автономное профессиональное образовательное учреждение \" Волгоградский социально-педагогический колледж\" (ГАПОУ \"ВСПК\")",
         "salary_low": 35000,
@@ -370,7 +470,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Программист",
         "company": "Департамент городского хозяйства",
         "salary_low": 60000,
@@ -410,7 +510,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "09 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Аналитик",
         "company": "Альпинтех",
         "salary_low": 150000,
@@ -420,37 +520,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик",
-        "company": "Альпинтех",
-        "salary_low": 150000,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://dubna.superjob.ru/vakansii/analitik-45733205.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик",
-        "company": "Альпинтех",
-        "salary_low": 150000,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://dmitrov.superjob.ru/vakansii/analitik-45733206.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик",
-        "company": "Альпинтех",
-        "salary_low": 150000,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/analitik-45812126.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Data Scientist",
         "company": "Спортмастер",
         "salary_low": null,
@@ -467,36 +537,6 @@
         "salary_top": null,
         "employment": "Полный рабочий день",
         "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Data Scientist",
-        "company": "Спортмастер",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://spb.superjob.ru/vakansii/data-scientist-46185193.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Data Scientist",
-        "company": "Спортмастер",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://lipetsk.superjob.ru/vakansii/data-scientist-46185194.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Data Scientist",
-        "company": "Спортмастер",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://krasnodar.superjob.ru/vakansii/data-scientist-46185195.html",
         "site": "SuperJob"
     },
     {
@@ -570,33 +610,13 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Инженер/Программист микроконтроллеров (стажер)",
         "company": "К Телеком",
         "salary_low": 19500,
         "salary_top": 24500,
         "employment": "Неполный рабочий день",
         "url": "https://ekaterinburg.superjob.ru/vakansii/inzhener-46664652.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Старший преподаватель (кафедра математики и прикладных информационных технологий)",
-        "company": "Тюменский индустриальный университет",
-        "salary_low": 25500,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://tyumen.superjob.ru/vakansii/starshij-prepodavatel-46550402.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Доцент (кафедра математики и прикладных информационных технологий)",
-        "company": "Тюменский индустриальный университет",
-        "salary_low": 34900,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://tyumen.superjob.ru/vakansii/docent-46550260.html",
         "site": "SuperJob"
     },
     {
@@ -627,26 +647,6 @@
         "salary_top": null,
         "employment": "Полный рабочий день",
         "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46872889.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик продаж и процессов по розничным продуктам",
-        "company": "Банк ВТБ",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/analitik-prodazh-i-processov-po-roznichnym-produktam-46901903.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Бизнес-аналитик розничного бизнеса (Banking)",
-        "company": "Банк ВТБ",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/biznes-analitik-roznichnogo-biznesa-46901928.html",
         "site": "SuperJob"
     },
     {
@@ -690,7 +690,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Преподаватель по программированию",
         "company": "UFirst",
         "salary_low": 500,
@@ -700,7 +700,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "09 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Data engineer",
         "company": "SuperJob",
         "salary_low": null,
@@ -750,6 +750,16 @@
         "site": "SuperJob"
     },
     {
+        "date": "10 August 2023",
+        "vacancy": "Системный администратор Linux",
+        "company": "ВЛС",
+        "salary_low": null,
+        "salary_top": 69000,
+        "employment": "Полный рабочий день",
+        "url": "https://vladimir.superjob.ru/vakansii/sistemnyj-administrator-linux-47120439.html",
+        "site": "SuperJob"
+    },
+    {
         "date": "07 August 2023",
         "vacancy": "Специалист (работа с отчетностью)",
         "company": "МИ ФНС России по ЦОД N2",
@@ -787,16 +797,6 @@
         "salary_top": 30000,
         "employment": "Неполный рабочий день",
         "url": "https://spb.superjob.ru/vakansii/pedagog-po-kompyuternomu-programmirovaniyu-32302521.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "DevOps Engineer",
-        "company": "SuperJob",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/devops-engineer-34424249.html",
         "site": "SuperJob"
     },
     {
@@ -840,6 +840,26 @@
         "site": "SuperJob"
     },
     {
+        "date": "10 August 2023",
+        "vacancy": "Педагог дополнительного образования технической направленности",
+        "company": "ГБОУ Гимназия № 642 \"Земля и Вселенная\"",
+        "salary_low": 15279,
+        "salary_top": 40000,
+        "employment": "Полный рабочий день",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-tehnicheskoj-napravlennosti-45432173.html",
+        "site": "SuperJob"
+    },
+    {
+        "date": "04 August 2023",
+        "vacancy": "Системный администратор",
+        "company": "ТБ ПРОЕКТ",
+        "salary_low": null,
+        "salary_top": 150000,
+        "employment": "Полный рабочий день",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-45760672.html",
+        "site": "SuperJob"
+    },
+    {
         "date": "03 August 2023",
         "vacancy": "Ведущий инженер",
         "company": "Санкт-Петербургский горный университет",
@@ -860,7 +880,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "03 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Ведущий системный администратор",
         "company": "СМ-Клиника",
         "salary_low": 160000,
@@ -890,26 +910,6 @@
         "site": "SuperJob"
     },
     {
-        "date": "09 August 2023",
-        "vacancy": "Бизнес-аналитик (Виртуальные ассистенты)",
-        "company": "Банк ВТБ (ПАО)",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/biznes-analitik-46784824.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Аналитик данных (Сквозные бизнес компоненты)",
-        "company": "Банк ВТБ (ПАО)",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-46784876.html",
-        "site": "SuperJob"
-    },
-    {
         "date": "07 August 2023",
         "vacancy": "Учитель информатики",
         "company": "ГБОУ Школа №45 с углубленным изучением математики Приморского района Санкт-Петербурга",
@@ -930,17 +930,7 @@
         "site": "SuperJob"
     },
     {
-        "date": "07 August 2023",
-        "vacancy": "Преподаватель спецдисциплин (информационные системы и веб-программирование)",
-        "company": "ГОУ СПО Колледж связи",
-        "salary_low": 85000,
-        "salary_top": null,
-        "employment": "Полный рабочий день",
-        "url": "https://www.superjob.ru/vakansii/prepodavatel-specdisciplin-45443355.html",
-        "site": "SuperJob"
-    },
-    {
-        "date": "09 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Руководитель группы аналитики / Дата аналитик",
         "company": "Банк ВТБ (ПАО)",
         "salary_low": null,
@@ -990,6 +980,16 @@
         "site": "SuperJob"
     },
     {
+        "date": "10 August 2023",
+        "vacancy": "Преподаватель специальных дисциплин (сетевой и системный администратор)",
+        "company": "ГОУ СПО Колледж связи",
+        "salary_low": 80000,
+        "salary_top": null,
+        "employment": "Полный рабочий день",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-specialnyh-disciplin-43762237.html",
+        "site": "SuperJob"
+    },
+    {
         "date": "07 August 2023",
         "vacancy": "Аналитик данных на маркетплейсах (python)",
         "company": "BEST.FIT",
@@ -1007,16 +1007,6 @@
         "salary_top": null,
         "employment": "Полная занятость",
         "url": "https://hh.ru/vacancy/84826929",
-        "site": "headhunter"
-    },
-    {
-        "date": "19 July 2023",
-        "vacancy": "Backend разработчик (Python)",
-        "company": "Диалог Регионы",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83690278",
         "site": "headhunter"
     },
     {
@@ -1040,7 +1030,17 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
+        "date": "19 July 2023",
+        "vacancy": "Backend разработчик (Python)",
+        "company": "Диалог Регионы",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83690278",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
         "vacancy": "Junior Python-разработчик",
         "company": "Blue underlined link",
         "salary_low": 110000,
@@ -1057,26 +1057,6 @@
         "salary_top": null,
         "employment": "Полная занятость",
         "url": "https://hh.ru/vacancy/84509350",
-        "site": "headhunter"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Python разработчик",
-        "company": "Ом",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84828704",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Разработчик Python",
-        "company": "РусЭкспресс",
-        "salary_low": 70000,
-        "salary_top": 100000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84765957",
         "site": "headhunter"
     },
     {
@@ -1100,26 +1080,6 @@
         "site": "headhunter"
     },
     {
-        "date": "08 August 2023",
-        "vacancy": "Python разработчик junior",
-        "company": "amoCRM",
-        "salary_low": 30000,
-        "salary_top": 60000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83813635",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Backend-разработчик Python",
-        "company": "СпецСитиСтрой",
-        "salary_low": 140000,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84755198",
-        "site": "headhunter"
-    },
-    {
         "date": "30 July 2023",
         "vacancy": "Junior/Middle Backend Developer (Python)",
         "company": "Перспективный стартап",
@@ -1127,6 +1087,16 @@
         "salary_top": null,
         "employment": "Полная занятость",
         "url": "https://hh.ru/vacancy/82858718",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Python разработчик junior",
+        "company": "amoCRM",
+        "salary_low": 30000,
+        "salary_top": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83813635",
         "site": "headhunter"
     },
     {
@@ -1140,13 +1110,13 @@
         "site": "headhunter"
     },
     {
-        "date": "01 August 2023",
-        "vacancy": "Разработчик Python (Junior)",
-        "company": "КСЕНЬЕВСКИЙ ПРИИСК",
-        "salary_low": null,
-        "salary_top": 90000,
+        "date": "08 August 2023",
+        "vacancy": "Разработчик Python",
+        "company": "РусЭкспресс",
+        "salary_low": 70000,
+        "salary_top": 100000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84347100",
+        "url": "https://hh.ru/vacancy/84765957",
         "site": "headhunter"
     },
     {
@@ -1160,16 +1130,6 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
-        "vacancy": "Python Engineer / Python разработчик",
-        "company": "AliExpress Россия",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84693635",
-        "site": "headhunter"
-    },
-    {
         "date": "19 July 2023",
         "vacancy": "Python Backend Developer",
         "company": "Twinby",
@@ -1180,17 +1140,47 @@
         "site": "headhunter"
     },
     {
-        "date": "09 August 2023",
-        "vacancy": "Стажер-разработчик Python (Удаленно) (Рейтинг на CodeForces - Важно!)",
-        "company": "МДО",
-        "salary_low": 60000,
+        "date": "08 August 2023",
+        "vacancy": "Backend-разработчик Python",
+        "company": "СпецСитиСтрой",
+        "salary_low": 140000,
         "salary_top": null,
-        "employment": "Стажировка",
-        "url": "https://hh.ru/vacancy/84302495",
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84755198",
+        "site": "headhunter"
+    },
+    {
+        "date": "09 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "Ом",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84828704",
         "site": "headhunter"
     },
     {
         "date": "07 August 2023",
+        "vacancy": "Python Engineer / Python разработчик",
+        "company": "AliExpress Россия",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84693635",
+        "site": "headhunter"
+    },
+    {
+        "date": "01 August 2023",
+        "vacancy": "Разработчик Python (Junior)",
+        "company": "КСЕНЬЕВСКИЙ ПРИИСК",
+        "salary_low": null,
+        "salary_top": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84347100",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
         "vacancy": "Младший разработчик Python (Junior Python Developer)",
         "company": "Учкнига",
         "salary_low": null,
@@ -1230,16 +1220,6 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
-        "vacancy": "Junior/Middle Python developer",
-        "company": "Райт Скан",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84387877",
-        "site": "headhunter"
-    },
-    {
         "date": "26 July 2023",
         "vacancy": "Программист Python",
         "company": "Инжиниринговый Центр Железнодорожного Транспорта",
@@ -1250,13 +1230,33 @@
         "site": "headhunter"
     },
     {
-        "date": "08 August 2023",
-        "vacancy": "Python разработчик",
-        "company": "idaproject",
+        "date": "24 July 2023",
+        "vacancy": "Python developer",
+        "company": "INFOWATCH",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84418444",
+        "url": "https://hh.ru/vacancy/83964990",
+        "site": "headhunter"
+    },
+    {
+        "date": "09 August 2023",
+        "vacancy": "Стажер-разработчик Python (Удаленно) (Рейтинг на CodeForces - Важно!)",
+        "company": "МДО",
+        "salary_low": 60000,
+        "salary_top": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/84302495",
+        "site": "headhunter"
+    },
+    {
+        "date": "07 August 2023",
+        "vacancy": "Junior/Middle Python developer",
+        "company": "Райт Скан",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84387877",
         "site": "headhunter"
     },
     {
@@ -1270,43 +1270,13 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
+        "date": "10 August 2023",
         "vacancy": "Python Developer, удаленно",
         "company": "Konica Minolta",
         "salary_low": null,
         "salary_top": null,
         "employment": "Проектная работа",
         "url": "https://hh.ru/vacancy/84657387",
-        "site": "headhunter"
-    },
-    {
-        "date": "26 July 2023",
-        "vacancy": "Backend Middle Developer / Python разработчик",
-        "company": "hotellab.io",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84075135",
-        "site": "headhunter"
-    },
-    {
-        "date": "26 July 2023",
-        "vacancy": "Стажер Python developer (СКИИС)",
-        "company": "МТС",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Стажировка",
-        "url": "https://hh.ru/vacancy/84062871",
-        "site": "headhunter"
-    },
-    {
-        "date": "09 August 2023",
-        "vacancy": "Python Developer в международный проект о здоровье",
-        "company": "AI Hub Group",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84497404",
         "site": "headhunter"
     },
     {
@@ -1320,6 +1290,76 @@
         "site": "headhunter"
     },
     {
+        "date": "10 August 2023",
+        "vacancy": "Разработчик Python (Django / FastAPI / Flask)",
+        "company": "Фрифлекс",
+        "salary_low": 120000,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84892336",
+        "site": "headhunter"
+    },
+    {
+        "date": "09 August 2023",
+        "vacancy": "Python Developer в международный проект о здоровье",
+        "company": "AI Hub Group",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84497404",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Backend Middle Developer / Python разработчик",
+        "company": "hotellab.io",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84075135",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "idaproject",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84418444",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Специалист по обработке данных / Python программист",
+        "company": "СПЕЙС МЕДИА ГРУПП",
+        "salary_low": 130000,
+        "salary_top": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84881313",
+        "site": "headhunter"
+    },
+    {
+        "date": "26 July 2023",
+        "vacancy": "Стажер Python developer (СКИИС)",
+        "company": "МТС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/84062871",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Разработчик (Python, Middle)",
+        "company": "Фитбейс",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84248442",
+        "site": "headhunter"
+    },
+    {
         "date": "08 August 2023",
         "vacancy": "Специалист отдела расследований инцидентов электронного мошенничества (SQL/Python)",
         "company": "Банк Открытие",
@@ -1330,23 +1370,13 @@
         "site": "headhunter"
     },
     {
-        "date": "08 August 2023",
-        "vacancy": "Middle разработчик Python / Django",
-        "company": "РА Дельта",
-        "salary_low": 60000,
-        "salary_top": 140000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84432408",
-        "site": "headhunter"
-    },
-    {
-        "date": "24 July 2023",
-        "vacancy": "Python developer",
-        "company": "INFOWATCH",
+        "date": "13 July 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Корпорация ЭЛАР",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83964990",
+        "url": "https://hh.ru/vacancy/83362882",
         "site": "headhunter"
     },
     {
@@ -1370,73 +1400,13 @@
         "site": "headhunter"
     },
     {
-        "date": "31 July 2023",
-        "vacancy": "Разработчик (Python, Middle)",
-        "company": "Фитбейс",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84248442",
-        "site": "headhunter"
-    },
-    {
-        "date": "15 July 2023",
-        "vacancy": "Программист Python / Python Developer",
-        "company": "Чипизубов Максим Сергеевич",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Частичная занятость",
-        "url": "https://hh.ru/vacancy/83466756",
-        "site": "headhunter"
-    },
-    {
-        "date": "13 July 2023",
-        "vacancy": "Разработчик Python",
-        "company": "Корпорация ЭЛАР",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83362882",
-        "site": "headhunter"
-    },
-    {
         "date": "08 August 2023",
-        "vacancy": "Python-developer",
-        "company": "WILDBERRIES",
-        "salary_low": null,
-        "salary_top": null,
+        "vacancy": "Middle разработчик Python / Django",
+        "company": "РА Дельта",
+        "salary_low": 60000,
+        "salary_top": 140000,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84724103",
-        "site": "headhunter"
-    },
-    {
-        "date": "07 August 2023",
-        "vacancy": "Python developer",
-        "company": "Secreate",
-        "salary_low": 180000,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84690325",
-        "site": "headhunter"
-    },
-    {
-        "date": "02 August 2023",
-        "vacancy": "Аналитик (PYTHON SQL)",
-        "company": "Центральный банк Российской Федерации",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84448262",
-        "site": "headhunter"
-    },
-    {
-        "date": "28 July 2023",
-        "vacancy": "Data Scientist (Python)",
-        "company": "РДП.РУ",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84221557",
+        "url": "https://hh.ru/vacancy/84432408",
         "site": "headhunter"
     },
     {
@@ -1450,6 +1420,16 @@
         "site": "headhunter"
     },
     {
+        "date": "15 July 2023",
+        "vacancy": "Программист Python / Python Developer",
+        "company": "Чипизубов Максим Сергеевич",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/83466756",
+        "site": "headhunter"
+    },
+    {
         "date": "03 August 2023",
         "vacancy": "Python Developer",
         "company": "Серяков Виктор Юрьевич",
@@ -1457,16 +1437,6 @@
         "salary_top": null,
         "employment": "Частичная занятость",
         "url": "https://hh.ru/vacancy/84485011",
-        "site": "headhunter"
-    },
-    {
-        "date": "03 August 2023",
-        "vacancy": "Middle Python разработчик [DataCrawler]",
-        "company": "МТС",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84485843",
         "site": "headhunter"
     },
     {
@@ -1480,13 +1450,23 @@
         "site": "headhunter"
     },
     {
-        "date": "26 July 2023",
-        "vacancy": "Python разработчик",
-        "company": "РДП.РУ",
+        "date": "07 August 2023",
+        "vacancy": "Python developer",
+        "company": "Secreate",
+        "salary_low": 180000,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84690325",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Middle Python разработчик [DataCrawler]",
+        "company": "МТС",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84047678",
+        "url": "https://hh.ru/vacancy/84485843",
         "site": "headhunter"
     },
     {
@@ -1500,6 +1480,16 @@
         "site": "headhunter"
     },
     {
+        "date": "14 July 2023",
+        "vacancy": "Python Backend Developer",
+        "company": "WebBee",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83434849",
+        "site": "headhunter"
+    },
+    {
         "date": "24 July 2023",
         "vacancy": "Strong junior / Middle Python разработчик",
         "company": "НПФ ФИТО",
@@ -1510,33 +1500,13 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
-        "vacancy": "Разработчик Odoo (Python)",
-        "company": "МосТрансАренда",
-        "salary_low": 150000,
-        "salary_top": 200000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84631676",
-        "site": "headhunter"
-    },
-    {
-        "date": "02 August 2023",
-        "vacancy": "Бэкенд-разработчик (python)",
-        "company": "СБЕР",
+        "date": "26 July 2023",
+        "vacancy": "Python разработчик",
+        "company": "РДП.РУ",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84444597",
-        "site": "headhunter"
-    },
-    {
-        "date": "12 July 2023",
-        "vacancy": "Python Developer",
-        "company": "СБЕР",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/81905757",
+        "url": "https://hh.ru/vacancy/84047678",
         "site": "headhunter"
     },
     {
@@ -1550,13 +1520,23 @@
         "site": "headhunter"
     },
     {
-        "date": "03 August 2023",
-        "vacancy": "Разработчик Python",
-        "company": "Иннотех, Группа компаний",
+        "date": "12 July 2023",
+        "vacancy": "Python Developer",
+        "company": "СБЕР",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84496170",
+        "url": "https://hh.ru/vacancy/81905757",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Python developer (KATA)",
+        "company": "Лаборатория Касперского",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84886489",
         "site": "headhunter"
     },
     {
@@ -1567,6 +1547,16 @@
         "salary_top": 70000,
         "employment": "Полная занятость",
         "url": "https://hh.ru/vacancy/83819906",
+        "site": "headhunter"
+    },
+    {
+        "date": "28 July 2023",
+        "vacancy": "Data Scientist (Python)",
+        "company": "РДП.РУ",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84221557",
         "site": "headhunter"
     },
     {
@@ -1581,22 +1571,102 @@
     },
     {
         "date": "02 August 2023",
-        "vacancy": "Разработчик Python",
-        "company": "ОТП Банк, АО (OTP bank)",
+        "vacancy": "Аналитик (PYTHON SQL)",
+        "company": "Центральный банк Российской Федерации",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84434346",
+        "url": "https://hh.ru/vacancy/84448262",
         "site": "headhunter"
     },
     {
-        "date": "14 July 2023",
-        "vacancy": "Python Backend Developer",
-        "company": "WebBee",
+        "date": "02 August 2023",
+        "vacancy": "Бэкенд-разработчик (python)",
+        "company": "СБЕР",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83434849",
+        "url": "https://hh.ru/vacancy/84444597",
+        "site": "headhunter"
+    },
+    {
+        "date": "03 August 2023",
+        "vacancy": "Разработчик Python",
+        "company": "Иннотех, Группа компаний",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84496170",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Разработчик Odoo (Python)",
+        "company": "МосТрансАренда",
+        "salary_low": 150000,
+        "salary_top": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84631676",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Python разработчик",
+        "company": "Домклик",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83936497",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Python developer (AI)",
+        "company": "Hunt For You",
+        "salary_low": 5500,
+        "salary_top": 7500,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84318641",
+        "site": "headhunter"
+    },
+    {
+        "date": "17 July 2023",
+        "vacancy": "Python Developer (проект Маркетинг)",
+        "company": "СБЕРКОРУС",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83548831",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Python developer",
+        "company": "НПФ Будущее",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/81942768",
+        "site": "headhunter"
+    },
+    {
+        "date": "22 July 2023",
+        "vacancy": "Разработчик Python Flask/Django",
+        "company": "Иннотех, Группа компаний",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83836028",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Middle+/Senior Python Developer",
+        "company": "Астрал-Софт",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/82927169",
         "site": "headhunter"
     },
     {
@@ -1610,33 +1680,13 @@
         "site": "headhunter"
     },
     {
-        "date": "02 August 2023",
-        "vacancy": "Python-разработчик",
-        "company": "СБЕР",
+        "date": "04 August 2023",
+        "vacancy": "Инженер-разработчик Python",
+        "company": "Максмарт",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84403876",
-        "site": "headhunter"
-    },
-    {
-        "date": "01 August 2023",
-        "vacancy": "Программист-разработчик на Python",
-        "company": "ФБУН НИИ СБМ Роспотребнадзора",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84363392",
-        "site": "headhunter"
-    },
-    {
-        "date": "26 July 2023",
-        "vacancy": "Junior Python-разработчик",
-        "company": "СОГАЗ",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84024689",
+        "url": "https://hh.ru/vacancy/84547226",
         "site": "headhunter"
     },
     {
@@ -1660,43 +1710,13 @@
         "site": "headhunter"
     },
     {
-        "date": "22 July 2023",
-        "vacancy": "Разработчик Python Flask/Django",
-        "company": "Иннотех, Группа компаний",
+        "date": "26 July 2023",
+        "vacancy": "Junior Python-разработчик",
+        "company": "СОГАЗ",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83836028",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Python developer",
-        "company": "НПФ Будущее",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/81942768",
-        "site": "headhunter"
-    },
-    {
-        "date": "01 August 2023",
-        "vacancy": "Программист Python",
-        "company": "Всероссийский Банк Развития Регионов",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/82983936",
-        "site": "headhunter"
-    },
-    {
-        "date": "31 July 2023",
-        "vacancy": "Python developer (AI)",
-        "company": "Hunt For You",
-        "salary_low": 5500,
-        "salary_top": 7500,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84318641",
+        "url": "https://hh.ru/vacancy/84024689",
         "site": "headhunter"
     },
     {
@@ -1710,26 +1730,6 @@
         "site": "headhunter"
     },
     {
-        "date": "17 July 2023",
-        "vacancy": "Python Developer (проект Маркетинг)",
-        "company": "СБЕРКОРУС",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83548831",
-        "site": "headhunter"
-    },
-    {
-        "date": "04 August 2023",
-        "vacancy": "Инженер-разработчик Python",
-        "company": "Максмарт",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84547226",
-        "site": "headhunter"
-    },
-    {
         "date": "26 July 2023",
         "vacancy": "Python Backend Developer (Middle/Remote)",
         "company": "JetLend",
@@ -1737,76 +1737,6 @@
         "salary_top": 195000,
         "employment": "Полная занятость",
         "url": "https://hh.ru/vacancy/84040721",
-        "site": "headhunter"
-    },
-    {
-        "date": "25 July 2023",
-        "vacancy": "Python-разработчик",
-        "company": "СБЕР",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/80122527",
-        "site": "headhunter"
-    },
-    {
-        "date": "31 July 2023",
-        "vacancy": "Middle+/Senior Python Developer",
-        "company": "Астрал-Софт",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/82927169",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Python разработчик",
-        "company": "Домклик",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83936497",
-        "site": "headhunter"
-    },
-    {
-        "date": "31 July 2023",
-        "vacancy": "Разработчик Python",
-        "company": "Московский Кредитный Банк",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84315858",
-        "site": "headhunter"
-    },
-    {
-        "date": "17 July 2023",
-        "vacancy": "Python Developer",
-        "company": "Пермякова Анна Александровна",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83541113",
-        "site": "headhunter"
-    },
-    {
-        "date": "21 July 2023",
-        "vacancy": "Python middle",
-        "company": "Опендэв",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83800034",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Back-end разработчик Python",
-        "company": "Топ-Тех Ай Ти Девелопмент",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84439024",
         "site": "headhunter"
     },
     {
@@ -1820,33 +1750,53 @@
         "site": "headhunter"
     },
     {
-        "date": "07 August 2023",
-        "vacancy": "Middle Python Developer",
-        "company": "ЭС-АЙ Безопасность",
-        "salary_low": 200000,
-        "salary_top": 350000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84671395",
-        "site": "headhunter"
-    },
-    {
-        "date": "08 August 2023",
-        "vacancy": "Разработчик Python (Ключ)",
-        "company": "Ростелеком Информационные Технологии",
+        "date": "21 July 2023",
+        "vacancy": "Python middle",
+        "company": "Опендэв",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/81890854",
+        "url": "https://hh.ru/vacancy/83800034",
         "site": "headhunter"
     },
     {
-        "date": "03 August 2023",
-        "vacancy": "Программист Python",
-        "company": "ФГУП ГлавНИВЦ Управления делами Президента Российской Федерации",
+        "date": "24 July 2023",
+        "vacancy": "FullStack developer Python-JS / Фулстек-разработчик",
+        "company": "Байкальские минералы",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83967739",
+        "url": "https://hh.ru/vacancy/80990687",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Разработчик Python",
+        "company": "ОТП Банк, АО (OTP bank)",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84434346",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Junior Python ML инженер – разработчик",
+        "company": "М-Холдинг",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83429643",
+        "site": "headhunter"
+    },
+    {
+        "date": "14 July 2023",
+        "vacancy": "Разработчик Python middle",
+        "company": "Аврора Инфинити",
+        "salary_low": 120000,
+        "salary_top": 180000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83460735",
         "site": "headhunter"
     },
     {
@@ -1861,62 +1811,22 @@
     },
     {
         "date": "31 July 2023",
-        "vacancy": "Python-разработчик в «Госуслуги.Культура»",
-        "company": "Notamedia",
+        "vacancy": "Разработчик Python",
+        "company": "Московский Кредитный Банк",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/80916871",
+        "url": "https://hh.ru/vacancy/84315858",
         "site": "headhunter"
     },
     {
-        "date": "20 July 2023",
-        "vacancy": "Middle Python-разработчик",
-        "company": "ANABAR",
-        "salary_low": null,
-        "salary_top": 250000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83778208",
-        "site": "headhunter"
-    },
-    {
-        "date": "14 July 2023",
-        "vacancy": "Разработчик Python middle",
-        "company": "Аврора Инфинити",
-        "salary_low": 120000,
-        "salary_top": 180000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83460735",
-        "site": "headhunter"
-    },
-    {
-        "date": "07 August 2023",
-        "vacancy": "DevTools Python Backend Developer",
-        "company": "YADRO",
+        "date": "25 July 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84646229",
-        "site": "headhunter"
-    },
-    {
-        "date": "26 July 2023",
-        "vacancy": "Backend разработчик (senior) Python",
-        "company": "ВИАВЕЙ",
-        "salary_low": null,
-        "salary_top": 550000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84079746",
-        "site": "headhunter"
-    },
-    {
-        "date": "07 August 2023",
-        "vacancy": "Middle+ Python-разработчик",
-        "company": "Blue underlined link",
-        "salary_low": 230000,
-        "salary_top": 270000,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84558094",
+        "url": "https://hh.ru/vacancy/80122527",
         "site": "headhunter"
     },
     {
@@ -1930,33 +1840,23 @@
         "site": "headhunter"
     },
     {
-        "date": "27 July 2023",
-        "vacancy": "Middle Python Developer",
-        "company": "Талала",
+        "date": "02 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/84135505",
+        "url": "https://hh.ru/vacancy/84403876",
         "site": "headhunter"
     },
     {
-        "date": "24 July 2023",
-        "vacancy": "Python разработчик (Middle / Senior)",
-        "company": "X5 Tech",
+        "date": "01 August 2023",
+        "vacancy": "Программист-разработчик на Python",
+        "company": "ФБУН НИИ СБМ Роспотребнадзора",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83928603",
-        "site": "headhunter"
-    },
-    {
-        "date": "11 July 2023",
-        "vacancy": "Middle Python разработчик",
-        "company": "Интермобилити",
-        "salary_low": null,
-        "salary_top": null,
-        "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/81460227",
+        "url": "https://hh.ru/vacancy/84363392",
         "site": "headhunter"
     },
     {
@@ -1970,13 +1870,83 @@
         "site": "headhunter"
     },
     {
-        "date": "08 August 2023",
-        "vacancy": "Python-разработчик",
-        "company": "getmatch",
+        "date": "27 July 2023",
+        "vacancy": "Middle Python Developer",
+        "company": "Талала",
         "salary_low": null,
-        "salary_top": 450000,
+        "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/83921162",
+        "url": "https://hh.ru/vacancy/84135505",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84438833",
+        "site": "headhunter"
+    },
+    {
+        "date": "02 August 2023",
+        "vacancy": "DevOps Engineer/Python Developer",
+        "company": "СБЕР",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84408969",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Middle Python Developer",
+        "company": "ЭС-АЙ Безопасность",
+        "salary_low": 200000,
+        "salary_top": 350000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84671395",
+        "site": "headhunter"
+    },
+    {
+        "date": "10 August 2023",
+        "vacancy": "Middle+ Python-разработчик",
+        "company": "Blue underlined link",
+        "salary_low": 230000,
+        "salary_top": 270000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/84558094",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Разработчик Python (Ключ)",
+        "company": "Ростелеком Информационные Технологии",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/81890854",
+        "site": "headhunter"
+    },
+    {
+        "date": "17 July 2023",
+        "vacancy": "Python Developer",
+        "company": "Пермякова Анна Александровна",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83541113",
+        "site": "headhunter"
+    },
+    {
+        "date": "31 July 2023",
+        "vacancy": "Python-разработчик в «Госуслуги.Культура»",
+        "company": "Notamedia",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/80916871",
         "site": "headhunter"
     },
     {
@@ -1990,13 +1960,43 @@
         "site": "headhunter"
     },
     {
-        "date": "24 July 2023",
-        "vacancy": "FullStack developer Python-JS / Фулстек-разработчик",
-        "company": "Байкальские минералы",
+        "date": "07 August 2023",
+        "vacancy": "DevTools Python Backend Developer",
+        "company": "YADRO",
         "salary_low": null,
         "salary_top": null,
         "employment": "Полная занятость",
-        "url": "https://hh.ru/vacancy/80990687",
+        "url": "https://hh.ru/vacancy/84646229",
+        "site": "headhunter"
+    },
+    {
+        "date": "08 August 2023",
+        "vacancy": "Python-разработчик",
+        "company": "getmatch",
+        "salary_low": null,
+        "salary_top": 450000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83921162",
+        "site": "headhunter"
+    },
+    {
+        "date": "20 July 2023",
+        "vacancy": "Middle Python-разработчик",
+        "company": "ANABAR",
+        "salary_low": null,
+        "salary_top": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83778208",
+        "site": "headhunter"
+    },
+    {
+        "date": "12 July 2023",
+        "vacancy": "Manual & Auto QA-инженер (Python)",
+        "company": "Х5 Group",
+        "salary_low": null,
+        "salary_top": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/83350783",
         "site": "headhunter"
     }
 ]

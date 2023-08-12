@@ -16,11 +16,16 @@ class JsonVacancy(AbstractJsonVacancy):
     def len_vacancy(self):
         return len(self.data)
 
-    # def print_vacancy(self):
-    #     with open(VACANCIES, 'r', encoding='utf-8') as file:
-    #         files = json.load(file)
-    #         for file in files:
-    #             print(f"Дата публикации объявления {file['date']}")
+    def print_vacancy(self):
+        for file in self.data:
+            print(f"Дата публикации объявления {file['date']}")
+            print(f"Вакансия: {file['vacancy']}")
+            print(f"Компания: {file['company']}")
+            print(f"Зарплата: {file['salary_low']} - {file['salary_top']}")
+            print(f"Вид занятости {file['employment']}")
+            print(f"Ссылка на вакансию {file['url']}")
+            print(f"Данная вакансия предоставлена {file['site']}")
+            print('-'*20)
 
     def add_vacancies(self):
         pass
@@ -44,7 +49,8 @@ class JsonVacancy(AbstractJsonVacancy):
             self.data = sorted(self.data, key=lambda x: int(x['salary_top']))
         elif key == '3':
             self.data = sorted(self.data, key=lambda x: int(x['salary_top']), reverse=True)
-        self.data = sorted(self.data, key=lambda x: datetime.strptime(x['date'], '%d %B %Y'))
+        else:
+            self.data = sorted(self.data, key=lambda x: datetime.strptime(x['date'], '%d %B %Y'))
 
     def delete_vacancies(self):
         pass
